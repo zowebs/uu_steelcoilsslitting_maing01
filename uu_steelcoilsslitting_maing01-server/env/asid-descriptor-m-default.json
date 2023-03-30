@@ -2,9 +2,9 @@
   "schemaVersion": "1.0.0",
   "schemaSpecificationUri": "https://uuapp.plus4u.net/uu-bookkit-maing01/bef682626ed943f28cde360ccb325981/book/page?code=uuSubAppInstanceDescriptor",
   "uuSubApp": {
-    "code": "UU.STEELCOILSSLITTING.MAING01",
+    "code": "UUN.UUSTEELCOILSSLITTING.MAING01",
     "version": "0.1.0",
-    "name": "uuSteelcoilsslittingMaing01",
+    "name": "uun_uun.uuSteelCoilsSlitting_maing01",
     "description": "",
     "license": "License Commercial",
     "asidRequired": true,
@@ -17,7 +17,7 @@
           "min": 1,
           "max": 1
         },
-        "appPackUri": null,
+        "appPackUri": "ues:UCL-BT:UUN.UUSTEELCOILSSLITTING.MAING01/APPBOX-0.1.0:UUN.UUSTEELCOILSSLITTING.MAING01/CMD-PACK",
         "runtimeStack": "UU.APPG01/APPSERVER_NODEJS_STACK-2.1"
       }
     },
@@ -29,7 +29,6 @@
         "alias": "primary"
       }
     },
-    "uuConfigMap": {
-    }
+    "uuConfigMap": {}
   }
 }

@@ -8,8 +8,10 @@
   },
   "devkit": {
     "development": {
-      "appBoxLocationUri": "----- VALUE REQUIRED -----",
-      "appDeploymentUri": null
+      "appBoxLocationUri": "ues:UCL-BT:OPR.RSP/APPBOXES",
+      "appDeploymentUri": "ues:UCL-BT[118500965363973101]:UUN_STUDENTS03_AWE[61797a92a1342b81b8058028]:UUN.UUSTEELCOILSSLITTING.MAING01[642584265bc79e1ce1effb96]",
+      "uuCloudBaseUri": "https://sys-eu-c-3.plus4u.net",
+      "uuCloudLogStoreBaseUri": "https://cmd-eu-c-3.plus4u.net"
     }
   },
   "uu_steelcoilsslitting_maing01-hi": {},
