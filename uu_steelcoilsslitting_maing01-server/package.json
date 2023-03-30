@@ -1,6 +1,6 @@
 {
-  "name": "uun_uun.uuSteelCoilsSlitting_maing01",
-  "version": "0.1.0",
+  "name": "uu_steelcoilsslitting_maing01-server",
+  "version": "0.1.0-dev",
   "description": "",
   "license": "License Commercial",
   "spec": "nodejs-app; uu_appg01_devkit@5.9.1",
